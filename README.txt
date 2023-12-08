@@ -1,5 +1,3 @@
-Contribution: Anna An han10@jh.edu EE61B4
-
 ## Experiment Setup
 This experiment is based on gcc.trace file. 
 Total loads are 318197 and total stores are 197486. 
